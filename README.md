@@ -1,1 +1,1 @@
-# kisisel-blogum
+# kisisel-blog
